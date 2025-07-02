@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("You really thought I would send you code that you couldn't read? hahah   ")
+st.title("You really thought I would send you code you couldn’t read? Hahah   ")
 st.write("We will still work on the Portuguese and Spanish though 😁")
 
 st.markdown("""
