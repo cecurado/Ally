@@ -8,4 +8,4 @@ st.markdown("""
 """)
 
 if st.button("Click me!"):
-    st.write(" I hope this makes you smile today! 😊")
+    st.write(" I hope this makes you smile today!😊")
