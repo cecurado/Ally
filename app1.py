@@ -5,9 +5,12 @@ st.write("I knew you could read my codes and understand my broken english before
 
 st.markdown("""
 ###  I hope you are having an amazing day/night  
-
-Thank you for letting me get to know you. I hope this makes you smile today! 😊
 """)
+import time
+
+for i in range(5):
+    st.write("Sending virtual hugs" + " 🤗" * (i+1))
+    time.sleep(0.5)
 
 if st.button("Click me!"):
     st.write(" I hope this makes you smile today! 😊")
