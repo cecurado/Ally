@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Here is my AI 'Agent' LOL  ")
-st.write("I knew you could read my codes and understand my broken english before 2026 😌. We will still work on the Portuguese and Spanish though")
+st.title("You really thought I would send you code thst you couldn't read? hahah   ")
+st.write("We will still work on the Portuguese and Spanish though 😁")
 
 st.markdown("""
 ###  I hope you are having an amazing day/night ms. pretty eyes
